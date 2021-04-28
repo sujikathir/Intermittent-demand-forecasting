@@ -77,6 +77,7 @@ The output above shows that the p-value is greater than the significance level o
 
 ![differenciate](https://github.com/sujikathir/Intermittent-demand-forecasting/blob/main/Images/done%20Diff%20fxn.PNG
 )
+
 The series can be differenced using the diff() function. The first line of code above performs the first order differencing, while the second line performs the Augmented Dickey-Fuller Test.
 
 
